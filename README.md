@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex!
+- 👋 Hi, I’m Alex! I'm from Maryland and use he/they pronouns.
 - 👀 I’m interested in tech and aviation.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, C#, and C++.
 - 💞️ I’m not looking to collaborate on anything right now.
