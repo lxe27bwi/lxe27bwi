@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Alex! I'm from Maryland and use he/him pronouns.
-- 👀 I’m interested in tech and aviation.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C#, and C++.
-- 💞️ I’m not looking to collaborate on anything right now.
-- AAAAAAAAAAAAA
+name's alex, i'm from baltimore, and use he/him pronouns 
+i know html, css, and german. currently learning swift. 
 
 <!---
 avplu/avplu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
