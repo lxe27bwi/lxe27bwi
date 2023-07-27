@@ -1,4 +1,5 @@
-name's alex, i'm from baltimore, and use he/him pronouns 
+name's alex, i'm from baltimore, and use he/him pronouns
+
 i know html, css, and german. currently learning swift. 
 
 <!---
