@@ -1,4 +1,4 @@
-name's lexi, i'm from baltimore and i use she/they pronouns.
+name's lexie, from baltimore!
 
 i know html, css, and german. currently learning swift. 
 
