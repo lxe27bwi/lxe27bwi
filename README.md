@@ -1,6 +1,7 @@
-name's lexie, from the baltimore area!
-
-i know html, css, and german. currently learning swift. 
+you can call me lexie 
+i'm from the baltimore area 
+html, css, german, english 
+workin on swift 
 
 <!---
 avplu/avplu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
