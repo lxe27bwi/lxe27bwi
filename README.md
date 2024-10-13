@@ -1,4 +1,4 @@
-name's lexie, from baltimore!
+name's lexie, from the baltimore area!
 
 i know html, css, and german. currently learning swift. 
 
